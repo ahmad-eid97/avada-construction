@@ -6,7 +6,7 @@
                     <img src="/assets/images/404-error.jpg" alt="Image">
                     <h3>Oops! Page Not Found</h3>
                     <p>The page you are looking for might have been removed had its name changed or is temporarily unavailable.</p>
-                    <router-link to="home" class="btn btn-primary">
+                    <router-link to="" class="btn btn-primary">
                         Return To Home Page
                     </router-link>
                 </div>
