@@ -6,7 +6,7 @@
             </h3>
             <div class="col-12 text-center">
                 <div class="breadcrumb">
-                    <nuxt-link to="home">
+                    <nuxt-link to="/">
                         Home
                     </nuxt-link>
                     <a href="">
